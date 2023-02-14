@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Software engineer at Toyota Motor Company who studied game programming and fell in love with robotics, artificial intelligence and learning new things.
+Software engineer at Toyota Motor Corporation, I am dedicated to developing simulation projects for autonomous driving. My background includes studies in game programming, and I have acquired skills in robotics and AI through my personal experience. I apply these skills in relevant projects at work and am continuously seeking opportunities to improve and grow in this evolving industry.
 
 ## 💻 Skills 
 
