@@ -27,11 +27,6 @@ Software engineer at Toyota Motor Corporation, I am dedicated to developing simu
 <a href="https://www.linkedin.com/in/juan-pablo-lagos-idrobo/" target="_blank">
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=">
 </a>
-<a href="https://twitter.com/juanpalai" target="_blank">
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=">
-</a>
-
-
 
 
 <!--
