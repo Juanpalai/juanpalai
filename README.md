@@ -17,7 +17,7 @@ Seasoned software engineer deeply passionate about open source software, Linux, 
 ### 🦾 Technologies
 ![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
 ![ROS](https://img.shields.io/static/v1?style=for-the-badge&message=ROS&color=22314E&logo=ROS&logoColor=FFFFFF&label=)
-![Dcoker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=85C9FF&logo=Docker&logoColor=2647FF&label=)
+![Dcoker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=00599C&logo=Docker&logoColor=FFFFFF&label=)
 
 ### 🌱 I’m currently learning ...
 ![PyTorch](https://img.shields.io/static/v1?style=for-the-badge&message=PyTorch&color=EE4C2C&logo=PyTorch&logoColor=FFFFFF&label=)
