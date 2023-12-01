@@ -25,7 +25,7 @@ Seasoned software engineer deeply passionate about open source software, Linux, 
 ![Keras](https://img.shields.io/static/v1?style=for-the-badge&message=Keras&color=D00000&logo=Keras&logoColor=FFFFFF&label=)
 
 ### 🔍 Social Media
-<a href="https://www.linkedin.com/in/juan-pablo-lagos-idrobo/" target="_blank">
+<a href="https://www.linkedin.com/in/juanpalai/" target="_blank">
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=">
 </a>
 
